@@ -48,8 +48,8 @@ Built a RAG assistant on the UnivAI platform with **LangChain, Haystack, reranki
 ## Education
 
 - **University of Chicago** — MS in Applied Data Science, Sep 2026–May 2028 (expected).
-- **Virginia Tech** — BS in Business Administration, Entrepreneurship, Innovation & Technology Management, Jul 2025–Jun 2026. GPA: 3.8/4.0.
-- **Xidian University** — B.Mgt. in Big Data Management & Application, Sep 2022–Jun 2026. GPA: 3.8/4.0. 2023 School Scholarship, top 6%.
+- **Virginia Tech** — BS in Business Administration, Entrepreneurship, Innovation & Technology Management, Sep 2022–Jun 2026. Joint program with Xidian University. GPA: 3.8/4.0.
+- **Xidian University** — B.Mgt. in Big Data Management & Application, Sep 2022–Jun 2026. Joint program with Virginia Tech. GPA: 3.8/4.0. 2023 School Scholarship, top 6%.
 
 ## Let’s connect
 
